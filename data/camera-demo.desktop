@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=OV5642 MIPI Test
+Comment=Show output from Camera to screen.
+Exec=/opt/OpenCvCamViewer/bin/OpenCvCamViewer
+Icon=camera-video
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;AudioVideo;Audio;Player;
+Name[en_US]=camera-demo.desktop
+
